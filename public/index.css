@@ -1,0 +1,7 @@
+.custom-size {
+    max-width: 85% !important;
+}
+
+html {
+    scroll-behavior: smooth;
+}
